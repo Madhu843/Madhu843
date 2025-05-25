@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madhu
 
-🎯 **Aspiring Data Analyst** | SQL • Power BI • Tableau  
+🎯 **Aspiring Data Analyst** | SQL • Power BI • Tableau • Python  
 📊 I transform raw data into actionable insights and compelling visual stories.
 
 ---
@@ -10,6 +10,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-3776AB?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
@@ -45,7 +46,19 @@ A visually engaging dashboard to track personal or fictional stats and KPIs.
 
 ---
 
+### 🐍 Python Projects
+
+*(Coming Soon)*  
+I’m working on Python projects using:
+- Pandas for data manipulation  
+- Matplotlib/Seaborn for data visualization  
+- Scikit-learn for basic ML modeling  
+Stay tuned!
+
+---
+
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mudavath-madhu-6b7718284)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mudavath-madhu-6b7718284)  
 📧 madhumudavath2110@gmail.com
+
