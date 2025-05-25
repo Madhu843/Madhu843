@@ -46,6 +46,16 @@ A visually engaging dashboard to track personal or fictional stats and KPIs.
 
 ---
 
+### 📈 Tableau Dashboards
+
+#### 📌 [Airbnb Analysis Dashboard](https://github.com/Madhu843/tableau-airbnb-analysis)
+An interactive Tableau dashboard analyzing Airbnb listings:
+- Visualizes average price by neighborhood and room type
+- Displays number of listings by boroughs
+- Shows availability and review scores trends
+
+---
+
 ### 🐍 Python Projects
 
 *(Coming Soon)*  
@@ -59,6 +69,7 @@ Stay tuned!
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mudavath-madhu-6b7718284)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudavath-madhu-6b7718284)  
 📧 madhumudavath2110@gmail.com
+
 
