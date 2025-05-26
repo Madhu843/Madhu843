@@ -72,5 +72,8 @@ Stay tuned!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudavath-madhu-6b7718284)  
 📧 madhumudavath2110@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhu843&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
+![Madhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhu843&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhu843&layout=compact&theme=radical)
