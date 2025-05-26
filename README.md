@@ -53,6 +53,9 @@ An interactive Tableau dashboard analyzing Airbnb listings:
 - Visualizes average price by neighborhood and room type
 - Displays number of listings by boroughs
 - Shows availability and review scores trends
+- #### 📌 [Netflix Analysis Dashboard](https://public.tableau.com/views/NetflixAnalysis_17482500552130/Dashboard1)
+Explored Netflix content by genre, country, and release year using interactive visualizations.
+
 
 ---
 
