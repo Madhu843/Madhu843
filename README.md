@@ -1,14 +1,24 @@
 # 👋 Hi, I'm Madhu
 
-🎯 **Aspiring Data Analyst** | SQL • Power BI • Tableau • Python  
-📊 I transform raw data into actionable insights and compelling visual stories.
+🔍 **Aspiring Data Analyst** |
+📊 SQL • Power BI • Tableau • Python • Excel  
+🎯 I specialize in transforming raw data into insights and interactive visual stories.
 
 ---
 
 ## 🧠 About Me
 
-I'm currently pursuing a BTech in Industrial and Systems Engineering at IIT Kharagpur.  
-With strong foundations in data querying, visualization, and reporting, I'm passionate about converting complex data into dashboards and insights that drive action.
+I'm currently pursuing a BTech in Industrial and Systems Engineering at **IIT Kharagpur**.  
+With a passion for data and decision-making, I enjoy working on real-world datasets, cleaning messy data, and creating dashboards that drive value.
+
+---
+
+## 🚀 Highlights
+
+- ✅ 7+ end-to-end projects in SQL, Tableau, Power BI, and Python  
+- 📈 Hands-on experience in data cleaning, EDA, and dashboarding  
+- 🌐 Familiar with API integration and automation in Python  
+- 📊 Strong storytelling skills through interactive dashboards and reports
 
 ---
 
@@ -26,66 +36,57 @@ With strong foundations in data querying, visualization, and reporting, I'm pass
 
 ### 🗃 SQL Projects
 
-#### 📌 [SQL Data Cleaning](https://github.com/Madhu843/sql-data-cleaning)
-Cleaned and prepared a messy layoffs dataset using CTEs, `ROW_NUMBER()`, null handling, and date formatting.
+#### 📌 [SQL Data Cleaning](https://github.com/Madhu843/sql-data-cleaning)  
+Performed advanced data cleaning on a layoffs dataset:  
+Used CTEs, `ROW_NUMBER()`, null handling, and formatting for analysis-ready output.
 
-#### 📌 [SQL EDA: Layoffs Dataset](https://github.com/Madhu843/sql-eda-layoffs)
-Performed exploratory data analysis:
-- Aggregations by company, industry, year
-- Rolling totals via window functions
-- Insights into top companies by layoffs
+#### 📌 [SQL EDA: Layoffs Dataset](https://github.com/Madhu843/sql-eda-layoffs)  
+Explored layoff trends by company, country, and year.  
+Applied window functions for rolling totals and ranked analysis.
 
 ---
 
 ### 📊 Power BI Dashboards
 
-#### 📌 [Business Insights Dashboard](https://github.com/Madhu843/powerbi-full-project)
-Analyzed sales performance with dynamic filtering, KPI cards, and region-based breakdown.
+#### 📌 [Business Insights Dashboard](https://github.com/Madhu843/powerbi-full-project)  
+Built a dynamic dashboard analyzing sales KPIs, trends, and region-wise performance.
 
-#### 📌 [RohitStats Dashboard](https://github.com/Madhu843/powerbi-rohitstats)
-Built a dashboard to visualize performance stats in a clean, personal format.
+#### 📌 [RohitStats Dashboard](https://github.com/Madhu843/powerbi-rohitstats)  
+Designed a clean, engaging dashboard to track performance metrics in a customized layout.
 
 ---
 
 ### 📈 Tableau Dashboards
 
-#### 📌 [Airbnb Analysis](https://public.tableau.com/views/AirBnBFullProject_17469804651770/Dashboard1)
-Interactive dashboard analyzing listings, average prices, and review scores across neighborhoods.
+#### 📌 [Airbnb Analysis](https://public.tableau.com/views/AirBnBFullProject_17469804651770/Dashboard1)  
+Visualized Airbnb pricing, availability, and reviews by neighborhood and room type.
 
-#### 📌 [Netflix Content Dashboard](https://public.tableau.com/views/NetflixAnalysis_17482500552130/Dashboard1)
-Explored genre distribution, release year trends, and country-based content analytics.
+#### 📌 [Netflix Content Analysis](https://public.tableau.com/views/NetflixAnalysis_17482500552130/Dashboard1)  
+Analyzed Netflix content by genre, release year, and country using filters and heatmaps.
 
 ---
 
 ### 🐍 Python Projects
 
-#### 📌 [Crypto API Tracker](https://github.com/Madhu843/crypto-api-tracker)
-A Jupyter Notebook that automates real-time cryptocurrency data retrieval from public APIs.  
-- Fetches BTC/ETH prices using REST APIs  
-- Formats and logs the data using `pandas`  
-- Prepares the dataset for further analysis or dashboarding
+#### 📌 [Crypto API Tracker](https://github.com/Madhu843/crypto-api-tracker)  
+Automates real-time crypto data extraction using REST APIs.  
+Fetches, formats, and logs price data (e.g., BTC, ETH) using `requests` and `pandas`.
 
-#### 📌 [World Population Analysis](https://github.com/Madhu843/world-population-analysis)
-Data analysis project using Python to explore world population trends.  
-- Used `pandas` and `matplotlib` for cleaning and visualization  
-- Analyzed top 10 most populous countries, growth patterns, and projections  
-- Created insightful plots to support demographic insights
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhu843&show_icons=true&theme=tokyonight)
+#### 📌 [World Population Analysis](https://github.com/Madhu843/world-population-analysis)  
+Explores population trends using data cleaning and visualization in Python.  
+Created plots and summary stats for top countries and global growth.
 
 ---
 
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudavath-madhu-6b7718284)  
-📧 madhumudavath2110@gmail.com
+📧 **madhumudavath2110@gmail.com**
 
 ---
 
 > _“I believe in turning data into stories, dashboards into decisions, and insights into impact.”_
+
+
 
 
